@@ -11,9 +11,9 @@
 	<key>KLInfo_ABC (Birman)</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
+		<true/>
 		<key>TISIconIsTemplate</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument.abc(birman)</string>
 		<key>TISIntendedLanguage</key>
@@ -22,7 +22,7 @@
 	<key>KLInfo_Russian – PC (Birman)</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
+		<true/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
